@@ -1,0 +1,8 @@
+{
+  "name": "Utsav AI",
+  "description": "Plan your perfect wedding, milestone, or celebration with Shubh AI — smart timelines, budget splits, vendor matchmaking, and guest RSVPs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
